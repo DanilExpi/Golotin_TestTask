@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 717d65321c603dd48a9bb1c2622f1e73
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50169
+  packageName: Google Cast Remote Display Sample
+  packageVersion: 1.1
+  assetPath: Assets/Materials/BloxMaterial.mat
+  uploadId: 111769

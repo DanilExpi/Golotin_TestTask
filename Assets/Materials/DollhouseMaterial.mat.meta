@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: c1949f404862a554fa4099c15ef2d2d0
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50169
+  packageName: Google Cast Remote Display Sample
+  packageVersion: 1.1
+  assetPath: Assets/Materials/DollhouseMaterial.mat
+  uploadId: 111769

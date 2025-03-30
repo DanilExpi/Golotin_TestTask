@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 8360fd2187b2ccf4e910cb292f55710e
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50169
+  packageName: Google Cast Remote Display Sample
+  packageVersion: 1.1
+  assetPath: Assets/Animation/PlayerAnimatorController.controller
+  uploadId: 111769

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 01ffe1f3679a0894087ea5e74106fb93
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50169
+  packageName: Google Cast Remote Display Sample
+  packageVersion: 1.1
+  assetPath: Assets/Materials/FluffParticleMaterial.mat
+  uploadId: 111769

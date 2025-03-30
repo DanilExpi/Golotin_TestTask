@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 29bbead13699b2d4f8bb36a42f8952a8
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50169
+  packageName: Google Cast Remote Display Sample
+  packageVersion: 1.1
+  assetPath: Assets/Materials/DrawersMaterial.mat
+  uploadId: 111769

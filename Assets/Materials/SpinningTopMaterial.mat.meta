@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 2cc03082a5ed39b48989495e27eca771
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50169
+  packageName: Google Cast Remote Display Sample
+  packageVersion: 1.1
+  assetPath: Assets/Materials/SpinningTopMaterial.mat
+  uploadId: 111769
