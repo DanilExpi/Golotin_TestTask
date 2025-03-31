@@ -18,6 +18,7 @@ namespace Scripts
         public void MoveCamera(Vector2 offset)
         {
             offset *= _factorMove;
+            offset *= Time.deltaTime;
             var position = Position;
             position.x -= offset.y;
             position.z += offset.x;

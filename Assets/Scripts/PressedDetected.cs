@@ -21,7 +21,6 @@ namespace Scripts
 
         public void OnPointerClick(PointerEventData eventData)
         {
-            Debug.LogError("OnPointerClick PressedDetected");
             var position = eventData.position;
 
             var mainCamera = _cameraManager.GetMainCamera;

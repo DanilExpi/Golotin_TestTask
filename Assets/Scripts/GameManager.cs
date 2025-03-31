@@ -40,14 +40,5 @@ namespace Scripts
                 }
             });
         }
-
-        private void Update()
-        {
-            //Debug.LogError($"Time: {Time.time}");
-            if (Input.GetMouseButtonDown(0))
-            {
-                Debug.LogError("Left Mouse Down");
-            }
-        }
     }
 }

@@ -11,7 +11,7 @@ namespace Scripts.InventoryBase
         [SerializeField] private RectTransform _forShow, _forHide;
 
         private Dictionary<BuildingType, int> _inventory = new();
-        [SerializeField] private List<ViewInventory> _views = new();
+        private List<ViewInventory> _views = new();
         private ViewInventoryPool _viewInventoryPool;
 
 

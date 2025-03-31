@@ -16,14 +16,13 @@ namespace Scripts.InventoryBase
         private const float MaxAlpha = 1f;
 
         private Coroutine _alphaCor;
+        private Inventory _inventory;
 
         private float Alpha
         {
             get => _group.alpha;
             set => _group.alpha = value;
         }
-
-        private Inventory _inventory;
 
         [Inject]
         private void Construct(Inventory inventory)
